@@ -5,7 +5,7 @@ function Footer() {
       <span>All rights reserved by Arjun</span>
       
     </footer>
-    <div className='arjun'></div>
+    
     </>
   )
 }
